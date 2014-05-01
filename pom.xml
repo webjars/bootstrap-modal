@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-modal</artifactId>
-    <version>2.2.5-SNAPSHOT</version>
+    <version>2.2.5</version>
     <name>Bootstrap Modal</name>
     <description>WebJar for Bootstrap Modal</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/bootstrap-modal</url>
         <connection>scm:git:https://github.com/webjars/bootstrap-modal.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bootstrap-modal.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>bootstrap-modal-2.2.5</tag>
     </scm>
     
     <dependencies>
